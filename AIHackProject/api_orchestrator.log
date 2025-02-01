@@ -1,0 +1,24 @@
+2025-01-31 15:31:55,820 - Gemini API Error: 503 - {
+  "error": {
+    "code": 503,
+    "message": "The model is overloaded. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2025-01-31 15:32:08,916 - Gemini API Error: 503 - {
+  "error": {
+    "code": 503,
+    "message": "The model is overloaded. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2025-01-31 15:32:12,252 - Gemini API Error: 503 - {
+  "error": {
+    "code": 503,
+    "message": "The model is overloaded. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
