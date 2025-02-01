@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import json
 import re
-import openai  # OpenAI integration
+from openai import OpenAI  # OpenAI integration
 import yaml
 from io import BytesIO
 import time
